@@ -132,6 +132,14 @@ export default function Team() {
                 img="/team/bence.png"
                 pronouns="he/him"
               />
+              <Bio
+                name="Graham Darcey"
+                teamRole="Creative Technologist"
+                text="Originally from Vermont, Graham has worked as a full-stack software engineer in Silicon Valley for over 20 years, most recently at Uber where he worked on their core routing services and map data platform.  He recently moved back east, and currently resides in Shelburne VT.  Graham's hobbies include gaming, gamedev, cooking, and playing joyfully with his two year old daughter."
+                img="/team/graham.jpg"
+                pronouns="he/him"
+              />
+
             </Grid>
             <br />
             <Text variant="title" color="orange" sx={{ lineHeight: '1.75em' }}>
